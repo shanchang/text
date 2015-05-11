@@ -2,5 +2,9 @@
 niskasda
 =======
 nihao
+<<<<<<< HEAD
+wo shi shanc
+>>>>>>> parent of 066178a... 4
+=======
 wo shi shanc
 >>>>>>> parent of 066178a... 4

@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 niskasda
+=======
+nihao
+wo shi shanc
+>>>>>>> parent of 066178a... 4
